@@ -11,4 +11,20 @@
     hr {
       color: #555555;
     }
+  .a-box {
+    height: 400px;
+    width: 600px;
+    opacity: 0.75;
+    background-color: aqua;
+    background-image: url("https://images.unsplash.com/photo-1565936854322-c5d03ffeeb32?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=819&q=80");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border: 5px blue solid;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 38px 13px rgba(0, 0, 0, 0.63);
+}
   
